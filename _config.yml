@@ -1,14 +1,28 @@
-layout_spectrum: 0.7942875
+name: Excellence in IT Consulting
+favicon: null
+layout_spectrum: 0
 typography_spectrum: 0.9176771
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3944951
-  lightness: 0.8444489
-  brandStrength: 0.06226187
-  rhythmicContrast: 0.7742312
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-name: Excellence in IT Consulting
+  brandStrength: 0.06226187
+  lightness: 0.8444489
+  saturation: 0.3944951
+  rhythmicContrast: 0.7742312
+purpose: []
