@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "When you need solutions to the most pressing problems, N2IT provides results that promote your success.\n\nIT CONSULTING\n\ngives you the tools needed to move past issues and develop a more comprehensive infrastructure and business strategy.\_"
-datePublished: '2016-04-05T17:35:45.399Z'
-dateModified: '2016-04-05T17:35:31.420Z'
+datePublished: '2016-04-05T17:37:48.390Z'
+dateModified: '2016-04-05T17:35:50.666Z'
 title: Philosophy
 author: []
 sourcePath: _posts/2016-04-05-philosophy.md
