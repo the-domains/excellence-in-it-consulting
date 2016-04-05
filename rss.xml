@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Excellence in IT Consulting]]></title>
         <description><![CDATA[Excellence in IT Consulting]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/excellence-in-it-consulting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 15:59:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Apr 2016 16:02:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/excellence-in-it-consulting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>Leave me a</p></article>]]></description>
+            <link>https://thegrid.ai/excellence-in-it-consulting/contact/index.html</link>
+            <guid isPermaLink="false">8c13e12f-68bc-49c3-a068-0e5b20e43a7a</guid>
+            <pubDate>Tue, 05 Apr 2016 16:02:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Consultancy]]></title>
             <description><![CDATA[<article><h1>Consultancy</h1><p>Excellence in IT Consulting</p></article>]]></description>
-            <link>undefinedconsultancy/index.html</link>
+            <link>https://thegrid.ai/excellence-in-it-consulting/consultancy/index.html</link>
             <guid isPermaLink="false">110259ef-88d6-40aa-b864-ccd50e13c8e6</guid>
             <pubDate>Tue, 05 Apr 2016 15:59:26 GMT</pubDate>
         </item>
