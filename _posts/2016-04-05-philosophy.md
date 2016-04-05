@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'When you need solutions to the most pressing problems, N2IT provides results that promote your success.'
-datePublished: '2016-04-05T16:03:29.170Z'
-dateModified: '2016-04-05T16:03:25.094Z'
+datePublished: '2016-04-05T16:49:22.838Z'
+dateModified: '2016-04-05T16:49:14.972Z'
 title: Philosophy
 author: []
 sourcePath: _posts/2016-04-05-philosophy.md
